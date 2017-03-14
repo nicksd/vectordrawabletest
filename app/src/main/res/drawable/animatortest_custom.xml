@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_dehaze_black_24dp_custom">
+    <target
+        android:name="1bar"
+        android:animation="@anim/rotationanim">
+    </target>
+    <target
+        android:name="2bar"
+        android:animation="@anim/rotationanim1">
+    </target>
+    <target
+        android:name="3bar"
+        android:animation="@anim/rotationanim2">
+    </target>
+</animated-vector>
